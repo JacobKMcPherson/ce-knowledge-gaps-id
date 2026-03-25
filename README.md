@@ -1,6 +1,6 @@
-# Project Title
+# Annual Continuing Education of Knowledge Gaps in Infectious Diseases
 
-Welcome to our Science Project Repository!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 This project uses [CRediT (Contributor Roles Taxonomy)](https://credit.niso.org/) to clearly specify the roles and contributions of each individual participant from the outset. CRediT enables transparency and recognition for the diverse contributions to scholarly work.
 
