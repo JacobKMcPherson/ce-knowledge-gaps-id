@@ -1,0 +1,66 @@
+\documentclass[times, twoside, watermark]{mcphersonlab-biorxiv-style}
+\usepackage{blindtext}
+
+% Please give the surname of the lead author for the running footer
+\leadauthor{McPherson} 
+
+\begin{document}
+\input{manuscript_001/sections/00_title}
+\input{manuscript_001/sections/00_authors}
+
+\maketitle
+\shorttitle{Global diversity of \textit{Clostridioides difficile} toxin B}
+
+\begin{abstract}
+\input{manuscript_001/sections/01_abstract}
+\end {abstract}
+
+\begin{keywords}
+\input{manuscript_001/sections/00_keywords}
+\end{keywords}
+
+\section*{Introduction}
+\input{manuscript_001/sections/02_intro}
+
+\section*{Results}
+\input{manuscript_001/sections/03_results}
+
+\section*{Conclusions}
+\input{manuscript_001/sections/04_discussion}
+\input{manuscript_001/sections/04_limitations}
+\input{manuscript_001/sections/04_conclusion}
+
+\begin{acknowledgements}
+\input{manuscript_001/sections/10_acknowledgements}
+\input{manuscript_001/sections/10_funding}
+\input{manuscript_001/sections/11_author_contributions}
+\input{manuscript_001/sections/12_declaration_of_interests}
+\input{manuscript_001/sections/13_declaration_of_ai}
+\end{acknowledgements}
+
+\newpage
+\newpage
+\section*{Methods}
+\input{manuscript_001/sections/05_materials}
+\input{manuscript_001/sections/05_methods}
+\input{manuscript_001/sections/05_methods_details}
+\input{manuscript_001/sections/05_methods_STAR}
+
+\newpage
+\section*{Bibliography}
+\bibliography{manuscript_001/sections/references}
+
+\newpage
+\newpage
+\captionsetup*{format=largeformat}
+% -------------------------
+% Supplementary Notes
+
+\newpage
+\section{Data Availability}
+\input{manuscript_001/sections/06_data_availability}
+
+\section{Code Availability}
+\input{manuscript_001/sections/07_code_availability}
+
+\end{document}
