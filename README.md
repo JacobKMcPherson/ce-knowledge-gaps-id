@@ -61,7 +61,7 @@ For clarifications on CRediT roles or project process, open an issue or contact 
 
 ## Presentation
 
-The repository now includes a Quarto RevealJS presentation at `/home/runner/work/ce-knowledge-gaps-id/ce-knowledge-gaps-id/index.qmd`.
+The repository now includes a Quarto RevealJS presentation at `index.qmd`.
 
 - Render locally with `quarto render` from the repository root.
 - The rendered site is written to `_site/`.
