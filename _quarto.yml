@@ -1,3 +1,6 @@
 project:
-  type: default
+  type: website
   output-dir: _site
+
+website:
+  title: "Annual Continuing Education of Knowledge Gaps in Infectious Diseases"
