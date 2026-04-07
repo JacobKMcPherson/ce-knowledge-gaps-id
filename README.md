@@ -59,6 +59,15 @@ Please respect citation and licensing requirements as described in the [LICENSE]
 
 For clarifications on CRediT roles or project process, open an issue or contact the lead.
 
+## Presentation
+
+The repository now includes a Quarto RevealJS presentation at `/home/runner/work/ce-knowledge-gaps-id/ce-knowledge-gaps-id/index.qmd`.
+
+- Render locally with `quarto render` from the repository root.
+- The rendered site is written to `_site/`.
+- GitHub Actions deploys the presentation to GitHub Pages with `.github/workflows/publish.yml`.
+- In the repository Pages settings, use **GitHub Actions** as the deployment source.
+
 ---
 
 **References:**
